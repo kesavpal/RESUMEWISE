@@ -1,6 +1,7 @@
 # Smart AI-Powered Resume Analyzer & ATS Optimizer
 
 A cutting-edge MERN stack application that analyzes resumes using AI, checks ATS compatibility, and provides powerful suggestions to improve your chances of landing your dream job.
+Deploy link - https://resume-analyzer-1-qcwc.onrender.com/
 
 ---
 
